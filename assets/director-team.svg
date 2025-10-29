@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="The Director with a team of security guards">
+  <rect width="800" height="400" fill="#f5f8fc"/>
+  <g fill="#0b2a4a">
+    <circle cx="100" cy="140" r="36"/>
+    <rect x="74" y="180" width="52" height="90" rx="8"/>
+    <circle cx="200" cy="140" r="36"/>
+    <rect x="174" y="180" width="52" height="90" rx="8"/>
+    <circle cx="400" cy="120" r="44"/>
+    <rect x="368" y="170" width="64" height="110" rx="10"/>
+    <circle cx="600" cy="140" r="36"/>
+    <rect x="574" y="180" width="52" height="90" rx="8"/>
+    <circle cx="700" cy="140" r="36"/>
+    <rect x="674" y="180" width="52" height="90" rx="8"/>
+  </g>
+  <text x="400" y="340" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="22" fill="#163d6b">Director with Team</text>
+</svg>

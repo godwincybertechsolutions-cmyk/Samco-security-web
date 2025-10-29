@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-label="Part of our dedicated team of security guards">
+  <rect width="800" height="400" fill="#f5f8fc"/>
+  <g fill="#0b2a4a">
+    <circle cx="160" cy="160" r="40"/>
+    <rect x="130" y="200" width="60" height="100" rx="8"/>
+    <circle cx="400" cy="160" r="40"/>
+    <rect x="370" y="200" width="60" height="100" rx="8"/>
+    <circle cx="640" cy="160" r="40"/>
+    <rect x="610" y="200" width="60" height="100" rx="8"/>
+  </g>
+  <text x="400" y="340" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="22" fill="#163d6b">Dedicated SAMCO Security Guards</text>
+</svg>
